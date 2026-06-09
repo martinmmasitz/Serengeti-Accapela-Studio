@@ -1,0 +1,6 @@
+{
+  "name": "Serengeti Acapella Studio",
+  "description": "A high-fidelity, low-latency multi-track acapella recording and mixing studio with precise track alignment and offline storage.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
